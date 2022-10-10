@@ -156,3 +156,4 @@ IMAGE=netboxcommunity/netbox:latest ./test.sh
 
 This repository is currently maintained by the community.
 Please consider sponsoring the maintainers of this project.
+Thank you!
